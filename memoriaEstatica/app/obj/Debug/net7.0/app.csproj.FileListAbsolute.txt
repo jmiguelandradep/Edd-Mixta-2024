@@ -1,0 +1,14 @@
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\bin\Debug\net7.0\app.exe
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\bin\Debug\net7.0\app.deps.json
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\bin\Debug\net7.0\app.runtimeconfig.json
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\bin\Debug\net7.0\app.dll
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\bin\Debug\net7.0\app.pdb
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.dll
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\refint\app.dll
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.pdb
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+e:\Documentos\Visual Studio 2019\edd Mixta 2024\tiposDatos\app\obj\Debug\net7.0\ref\app.dll
