@@ -1,0 +1,14 @@
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\bin\Debug\net7.0\app.exe
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\bin\Debug\net7.0\app.deps.json
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\bin\Debug\net7.0\app.runtimeconfig.json
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\bin\Debug\net7.0\app.dll
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\bin\Debug\net7.0\app.pdb
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.dll
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\refint\app.dll
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.pdb
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+E:\Documentos\Visual Studio 2019\edd Mixta 2024\teoriaLisas\app\obj\Debug\net7.0\ref\app.dll
